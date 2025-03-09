@@ -14,7 +14,7 @@ MovieMania is a simple and stylish movie search application that allows users to
 - **OMDb API** – Movie database
 
 ## 📸 Screenshots
-![MovieMania Screenshot](https://via.placeholder.com/800x400)
+![MovieMania Screenshot](/src/Screenshot.png)
 
 ## 📦 Installation
 1. Clone the repository:
