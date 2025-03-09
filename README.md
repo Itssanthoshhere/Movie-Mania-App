@@ -54,6 +54,9 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 - OMDb API for providing movie data.
 - Open-source community for inspiration and resources.
 
+## 📩 Connect with Me
+[GitHub](https://github.com/Itssanthoshhere) | [LinkedIn](https://linkedin.com/in/thesanthoshvs)
+
 ---
 Made with ❤️ by [Santhosh VS](https://github.com/Itssanthoshhere)
 
