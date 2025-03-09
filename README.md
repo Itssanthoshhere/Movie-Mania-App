@@ -19,7 +19,7 @@ MovieMania is a simple and stylish movie search application that allows users to
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Itssanthoshhere/MovieMania.git
+   git clone https://github.com/Itssanthoshhere/Movie-Mania-App.git
    ```
 2. Navigate to the project directory:
    ```sh
