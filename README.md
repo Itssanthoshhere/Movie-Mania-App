@@ -36,7 +36,7 @@ MovieMania is a simple and stylish movie search application that allows users to
 
 ## 🔑 API Key Setup
 The app uses the OMDb API. To set up your own API key:
-1. Sign up at [OMDb API](https://www.omdbapi.com/) to get a free API key.
+1. Sign up at [OMDb API](https://www.omdbapi.com/apikey.aspx) to get a free API key.
 2. Replace the existing API key in `App.js`:
    ```js
    const API_URL = "http://www.omdbapi.com?apikey=YOUR_API_KEY";
